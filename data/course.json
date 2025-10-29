@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "bb9d4273-bbbb-62f6-d62c-7f020d776ba1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "11470c94-2e20-4f78-94a2-360aa5ab6864",
+    "website": "differential-equations"
+  },
+  "course_title": "Differential Equations",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course, taught to students in MIT\u2019s Experimental Study Group, is equivalent to the Mathematics Department's {{% resource_link \"f55cec4d-1b62-4d49-a8d9-f7ffa40f7e4f\" \"*18.03 Differential Equations*\" %}}. They satisfy the same prerequisites and are geared to preparing students for downstream science and engineering classes.\n\nMIT\u2019s {{% resource_link \"22392f55-7515-4b04-9dcf-ddf13681c519\" \"Experimental Study Group\" %}} (ESG) is one of MIT\u2019s first-year learning communities. Small class sizes allow for teaching interactively and staying in close touch with what every student is finding easy or difficult.",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ES.1803",
+  "learning_resource_types": [
+    "Open Textbooks",
+    "Lecture Notes",
+    "Readings",
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "895503c6-1aea-4579-a9b6-01126f7ebbe2",
+  "site_short_id": "ES.1803-spring-2024",
+  "site_url_path": "courses/es-1803-differential-equations-spring-2024"
+}

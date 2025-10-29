@@ -1,0 +1,87 @@
+---
+content_type: resource-list
+description: Class-time was a mix of interactive lecture, problem solving, and discussion.
+  Here are the in-class problem sets and solutions.
+draft: false
+resources:
+  content:
+  - c47305a7-e8f3-4336-b0ba-6c6ba4bb21db
+  - c06c1624-ff52-4948-bad0-c37389da2576
+  - 94606835-069b-4f30-b1b5-87edcbbf9707
+  - 6c2121e2-69cd-419b-bc86-d01da2d4398b
+  - 529a8e92-b4e2-4d2f-aad9-2051ab78870a
+  - 7249fa8e-0425-4b9c-a7ca-5175d8275c62
+  - 186b3d86-af75-4cef-ab6b-3d5b3c42846f
+  - 09c58fad-df6b-48ec-ba01-e0a28807c98b
+  - 6024658b-d4ef-4e26-b9b6-9efb57543352
+  - 7b8e282a-1837-41f5-809c-397eb8d65adf
+  - 3d5e5a11-5e1b-4788-bb1a-0ebe215d250b
+  - 2ae68065-68ed-4e4a-afb2-1aef749b2210
+  - 78f9e7ab-22be-47fd-8d64-9b7897132f91
+  - 4ef0c0ca-a4a1-4d4d-9e59-48bf2fc97312
+  - 5c01fbc5-197e-4707-b304-cf6cdc18ceaf
+  - 90ebf882-098b-4f24-abc4-f0d0ed484232
+  - 95c124ca-ccfb-4d01-a833-fda1c7216934
+  - 06ddcd79-c943-4488-8555-036eb31871ed
+  - 52f9178c-bb01-471c-992a-dd724874dea7
+  - e5b21f55-8a31-4e91-8727-728ae0e2e9e0
+  - 9903585f-8976-48cb-8006-b291293e314f
+  - b3231faa-f802-4222-8df5-3d283e105502
+  - e0f262bd-eb1c-4710-adc9-e70c4796ee19
+  - b3f1d668-de78-43aa-900f-28bff26d07ea
+  - bb412a6f-bc10-46cb-85fe-4e0952199c33
+  - 67cc7706-e57c-47cf-a9cb-99cb2e764a20
+  - 45acfb51-6619-4072-aadc-7a0d4a4d6762
+  - 518204e6-39f9-4db7-9005-6e7120dcd949
+  - ec40c613-7ac7-4756-8bb8-f3025b890525
+  - b071d225-e7c7-4994-bbc2-c8471c5b1019
+  - a5d9aea2-4423-4dc4-bead-22c01fa2b488
+  - 6a89e7cf-234f-4ccd-90b3-b7c074b19d6a
+  - f3266ead-26fc-4349-bf74-be131cb3ecfe
+  - a86afa32-fc8e-4dce-9306-2dcc72180593
+  - d974e24e-2ce2-4139-a7ec-7c2a54fef566
+  - dce4b23e-149c-49a0-859c-bb0ec933c1df
+  - 96cef7f9-674d-4db7-828b-41b31bdf7cd0
+  - 53a82a3f-bf70-496b-907e-99aae4c2ba4e
+  - 472d6c01-cb4e-460a-b16e-99e88b776be6
+  - 1fc21aab-43af-4745-b875-bffa5e379609
+  - caf9fffe-4097-4f29-bf12-e3a32f2d32c3
+  - 73a5a306-9035-495c-ab90-3049f9802d04
+  - 8c01900c-e8ee-48ab-9212-0622d59097f4
+  - fcbb8ea3-6f8f-4b30-9ce3-6b2a85e108ca
+  - 55959e5a-4e29-4759-9660-899931cd2773
+  - 128ba82f-43ee-41c2-a243-58d7710d5de2
+  - e944d25b-3e7d-46bc-9b57-7818fc7a5da2
+  - 733d3521-bcb1-4ac0-af32-2eb3196cfe13
+  - e4df4ace-d1be-43e3-a105-d10ff25e1f9b
+  - c5eacace-c7e5-4587-9cee-13d15666edd1
+  - 5a763549-ef14-48f1-a285-7db45e5865ac
+  - 9e292463-b78c-49ca-9130-91c6aee6aaaa
+  - 14229ba0-0e6f-4cf0-9ed1-c8d1994f0380
+  - bc465860-c5e6-42b1-a30c-abefff45d137
+  - d9052c79-d247-41fc-a22d-e190f4912863
+  - 19064561-ee6f-4d57-a08c-96d8414f4ff5
+  - 5ca3601f-8f9d-4817-a5b5-df6c2c2b1d1e
+  - 8481bc24-20d9-4846-947c-5a7152f36a6d
+  - 6f16609a-a1ae-46f4-abbb-b23c844e89e4
+  - b311787b-8ef3-4e09-b6f9-5fd9b49762ab
+  - 7c941128-fb94-42d2-807a-eaf980fc184f
+  - 7d9ade17-ca72-4b9e-8a83-fa588ca629ec
+  - 9b2f4972-a701-411a-abc9-10b7684690ff
+  - 9e263b58-44a1-4977-9791-f86f6197c92c
+  - 947a1de0-fed3-45b2-92e0-74ab9f7be9e4
+  - e4ca8658-2c29-440b-aa17-8a22c937d48e
+  - bcca5465-e4ce-46a9-9708-6ef65478ce65
+  - 2b063c0e-43c2-4b10-a13a-eef959df2cda
+  - ff3c4403-75a6-40b9-b50d-432854423899
+  - 36e8ee00-67eb-4744-bd77-0cc01274f15b
+  - ab89ecd0-8ffe-43b7-a010-fd269be6a012
+  - dc9fed29-9cfe-4929-95e7-09aa443dd059
+  - f2be87df-0b7b-4ac3-920c-646138ac38af
+  - 82577503-f5e0-4cdd-acb0-bd4e66aa1d21
+  - c04e8efa-4aa2-4abf-bd9d-c974a427635b
+  - 96bcbb0e-053d-4da4-a8f9-7e93d0905326
+  website: differential-equations
+title: In-Class Problem Sets
+uid: 3ace680f-f83b-46c1-9c71-b7deac778718
+---
